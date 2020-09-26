@@ -3,6 +3,12 @@ Discovering Joomla 4 welcome page
 
 
 ## 1 Main Welcome page
+Discovering Joomla 4!
+
+Speach bubble "what's this all about?" - fishie
+fishie - eric to insert text about what this site is for
+bottom of the page has an email address form
+
 
 ## 2 Blog style page
  - header
