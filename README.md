@@ -1,9 +1,9 @@
-# DiscoveringJoomla4
-Discovering Joomla 4 welcome page
+# DiscoveringJoomla
+Discovering Joomla welcome page
 
 
 ## 1 Main Welcome page
-Discovering Joomla 4!
+Discovering Joomla!
 
 Speach bubble "what's this all about?" - fishie
 fishie - eric to insert text about what this site is for
